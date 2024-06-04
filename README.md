@@ -1,7 +1,14 @@
 # Image-Feature-Extraction
 
+A Python package for extracting various features from 2D images, including texture-based, histogram-based, shape-based, wavelet-based, geometric, and topological features.
+
 Create a Python package that includes these feature extraction techniques from 2D data such as images, we'll organize our package into multiple modules, each dedicated to a specific type of feature extraction. We'll use popular libraries such as NumPy, OpenCV, scikit-image, and scikit-learn to implement these features. Here's an outline of how the package can be structured and a detailed implementation for each feature extraction method.
 
+## Installation
+
+```bash
+pip install image_feature_extraction
+```
 
 # Final Steps
 Create a virtual environment and install dependencies using pip install -r requirements.txt.
